@@ -17,6 +17,9 @@
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"></a></code>
+<code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></a></code>
+<code><a href="https://stackoverflow.com/users/20438308/rzayev-ruslan"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg"></a></code>
+  
 <br />
   
 ---
