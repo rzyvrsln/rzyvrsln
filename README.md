@@ -12,7 +12,7 @@
 <summary>
   ✨ technologies I currently use:
 </summary>
-  <br />
+<br />
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></a></code>
@@ -24,7 +24,7 @@
 <summary>
   🤝 Connect with me:
 </summary>
-  <br />
+<br />
   <a href="https://www.linkedin.com/in/ruslan-rzayev-5041b3207/">
    <img align="left" alt=" Ratheshan Sathiyamoorthy | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
   </a>
