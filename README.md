@@ -12,15 +12,12 @@
 <summary>
   ✨ technologies I currently use:
 </summary>
-   <br>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Dark.svg"></a></code>
 <code><a href="https://stackoverflow.com/users/20438308/rzayev-ruslan"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/StackOverflow-Dark.svg"></a></code>
-  
-<br />
   
 ---
 <summary>
@@ -44,7 +41,7 @@
    <a href="https://github.com/rzyvrsln">
     <img align="left" alt="Ratheshan Sathiyamoorthy| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
   </a>
-  <br><br><br />
+<br />
   
 ---
 <summary>
