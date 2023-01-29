@@ -17,10 +17,11 @@
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg"></a></code>
-<br>
+<br />
   
+---
 <summary>
-  <h4> Connect with me🤝: <h4>
+  <h4> Connect with me 🤝: <h4>
 </summary>
   </hr>
   <a href="https://www.linkedin.com/in/ruslan-rzayev-5041b3207/">
