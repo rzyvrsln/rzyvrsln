@@ -58,6 +58,6 @@
   </a>
 </p>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rzyvrsln&theme=tokyonight_duo&hide_border=true&border_radius=6.2)](https://git.io/streak-stats" alt="rzyvrsln" /></p>
-
-<p align="right" > Created with 🖤 by <a href="https://github.com/rzyvrsln">rzyvrsln</a></p>
+<!--
+<p align="right" > Created with 🖤 by <a href="https://github.com/rzyvrsln">rzyvrsln</a></p>-->
 <p align="right" > </p>
