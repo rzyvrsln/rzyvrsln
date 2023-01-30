@@ -22,7 +22,7 @@
   
 ---
 <summary>
-  🤝 Connect with me:
+  🤝 contact with me:
 </summary>
 <br />
   <a href="https://www.linkedin.com/in/ruslan-rzayev-5041b3207/">
