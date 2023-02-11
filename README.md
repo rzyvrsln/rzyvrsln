@@ -13,6 +13,7 @@
   ✨ technologies I currently use:
 </summary>
 <br />
+<code><a href="#"><img height="30" src="https://fuzeservers.ru/wp-content/uploads/8/6/5/86583c8cc7d0c6f3b4a491d8df92fa9e.jpeg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/DotNet.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg"></a></code>
 <code><a href="#"><img height="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg"></a></code>
